@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+Titanic Survival Prediction <br>
 project done by FARHAN FAYAZ   
 Project Overview
 
