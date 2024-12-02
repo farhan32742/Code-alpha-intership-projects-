@@ -1,5 +1,5 @@
 Titanic Survival Prediction
-
+project done by FARHAN FAYAZ   
 Project Overview
 
 In this project, I explored the Titanic dataset to predict survival rates of passengers based on various attributes like age, gender, class, and more. Using machine learning algorithms, I trained a model to identify key factors influencing survival. This project demonstrates my skills in data preprocessing, feature engineering, and model evaluation.
